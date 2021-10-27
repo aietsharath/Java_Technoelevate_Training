@@ -1,0 +1,49 @@
+(a=5,b=2,c=1)
+a)m=++a*5;
+b) n=b++-c*2;
++=
+-=
+/=
+*=
+(x=10,y=2,p=21)
+p*=x/y;
+XOR
+T T F
+F F F
+T F T
+F T T
+a+=b+c;
+Concept:
+Java has Application
+Java as programming language
+What is software ?
+What is feature of Java ?
+53 Key words
+1 true
+1 false
+1 null
+1 go to
+1 const
+native
+strictfp(1.2 ver)
+aolatile
+assert
+transient
+enum(1.5 version)
+char-'/u0000'
+Char ->2 byte
+1)UTF
+2)16-18 International languages
+Strongly Typed Programming Language
+1.Neatly defined data type.
+2.Assignment check by the compiler.
+3.Every variable and every expression has some data type.
+Flow control
+Operator
+Why char not in short?
+f-it will be float.
+Big L or l 
+
+
+
+
